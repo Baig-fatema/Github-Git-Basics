@@ -3,6 +3,7 @@ if is_hugry.lower() == "yes":
     print("eat Samosa")
     print("eat Pizza")
     print("eat fries")
+    print("eat burger")
 else:
     print("Do complete your homework")    
     
