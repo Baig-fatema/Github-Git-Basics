@@ -23,4 +23,13 @@ Delete branch
 
 $ git branch -D dummy
 
+
+Head
+
+$ git show HEAD
+
+difftool
+
+$ git difftool Head~2 Head~1
+
 '''    
