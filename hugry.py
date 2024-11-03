@@ -2,6 +2,7 @@ is_hugry=input("Are you hugry?")
 if is_hugry.lower() == "yes":
     print("eat Samosa")
     print("eat Pizza")
+    print("eat fries")
 else:
     print("Do complete your homework")    
     
