@@ -9,5 +9,6 @@ else:
 
 '''
 undo uncommited changes : $ git checkout -- hugry.py
-undo commmited changes : 
+undo commmited changes : $ git revert commit id
+reset : $ git reset commit id (from log history)
 '''    
