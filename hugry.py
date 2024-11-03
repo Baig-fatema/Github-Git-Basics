@@ -17,4 +17,9 @@ Branch :
 git branch
 git checkout new_branch name     (create new barch)
 git log       (check commit history)
+
+Delete branch 
+
+$ git branch -D dummy
+
 '''    
